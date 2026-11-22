@@ -6,7 +6,7 @@ If you just happened to stumble into this repository because your snoopy or what
 
 ## Discord Webhook Monitoring
 
-I have been wanting to do this for a while now. One of the main objectives of this experiment is to determine whether automated repository scrapers discover and attempt to use exposed Discord webhook URLs. I hope to find some fascinating results :D
+I have been wanting to do this for a while now. One of the main objectives of this experiment is to determine whether automated repository scrapers discover and attempt to use exposed Discord webhook URLs. Maybe I wont see shit but who knows! I Still hope to find some fascinating results :D
 
 I will use a dedicated webhook to monitor incoming messages.
 
@@ -23,3 +23,7 @@ webhook and update this repository to the best of my ability with a new URL. Tha
 keep running. I will try my best to document each rotation.
 
 No legitimate Discord webhook or production infrastructure is being exposed.
+
+## Timeline
+
+- 11/22/2026: Experiment started
