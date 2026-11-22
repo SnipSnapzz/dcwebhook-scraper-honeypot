@@ -1,5 +1,9 @@
 dcwebhook-scraper-honeypot
 
+## IMPORTANT
+
+If you just happened to stumble into this repository because your snoopy or whatever the fuck it might be, I would appreciate it if you message snipsnapz on discord letting me know and DONT TOUCH THE WEBHOOK!! I understand that sharing this repository may scew the results so keep it on the downlow!!!
+
 ## Discord Webhook Monitoring
 
 I have been wanting to do this for a while now. One of the main objectives of this experiment is to determine whether automated repository scrapers discover and attempt to use exposed Discord webhook URLs. I hope to find some fascinating results :D
